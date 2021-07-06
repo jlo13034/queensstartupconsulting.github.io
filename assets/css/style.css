@@ -13675,7 +13675,7 @@ div#dia-preloader {
   margin: 0 auto;
   position: absolute;
   transition: 0.5s all ease-in-out;
-  background-image: linear-gradient(81deg, #ff6600 0%, #ff9903 75%, #ffcb05 100%);
+  background-image: linear-gradient(81deg, #F4016E 0%, #F4016E 75%, #F4016E 100%);
 }
 
 .dia-main-header .dia-main-navigation li a:hover:before {
@@ -13971,7 +13971,7 @@ div#dia-preloader {
 }
 
 .dia-banner-section .dia-banner-content .dia-banner-btn .dia-abt-btn:before {
-  background-color: #5409d6;
+  background-color: #5A45A8;
 }
 
 .dia-banner-section .cd-headline.clip span {
