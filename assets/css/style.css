@@ -13464,7 +13464,7 @@ Sticky Menu
 .dia-home {
   margin: 0;
   padding: 0;
-  color: #585476;
+  color: #000;
   font-size: 16px;
   overflow-x: hidden;
   line-height: 1.667;
@@ -13519,7 +13519,7 @@ div#dia-preloader {
 }
 
 .dia-section-title h2 {
-  color: #282350;
+  color: #000;
   font-size: 40px;
   font-weight: 700;
   padding-top: 5px;
@@ -13919,7 +13919,7 @@ div#dia-preloader {
 }
 
 .dia-banner-section .dia-banner-content h1 {
-  color: #282350;
+  color: #000;
   font-size: 70px;
   font-weight: 700;
   line-height: 1.071;
@@ -13928,7 +13928,7 @@ div#dia-preloader {
 
 .dia-banner-section .dia-banner-content p {
   font-size: 22px;
-  color: #403b64;
+  color: #000;
 }
 
 .dia-banner-section .dia-banner-content .dia-banner-btn {
@@ -14090,7 +14090,7 @@ div#dia-preloader {
 }
 
 .dia-service-section .dia-service-details .dia-service-item h3 {
-  color: #282350;
+  color: #000;
   font-size: 20px;
   font-weight: 700;
   padding-bottom: 16px;
@@ -14170,7 +14170,7 @@ div#dia-preloader {
 }
 
 .dia-fun-fact-section .dia-fun-fact-title h2 {
-  color: #282350;
+  color: #000;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.528;
@@ -14210,7 +14210,7 @@ div#dia-preloader {
 }
 
 .dia-fun-fact-section .dia-fun-fact-item .fun-fact-number span {
-  color: #282350;
+  color: #000;
   font-size: 90px;
   line-height: 1.2;
   font-weight: 500;
@@ -14245,7 +14245,7 @@ div#dia-preloader {
 .dia-about-content .dia-about-list li {
   width: 50%;
   float: left;
-  color: #282350;
+  color: #000;
   font-weight: 700;
   padding-left: 30px;
   position: relative;
